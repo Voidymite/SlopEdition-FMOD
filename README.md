@@ -1,4 +1,5 @@
-# SlopEdition-FMOD
-FMOD repo for PT: Slop Edition. Mercy, TDP...
+# Pizza Tower: Slop Edition FMOD 
 
-This uses Raltyro's Pizza Tower FMOD recreation, go check it out: https://github.com/Raltyro/PT-FSPRO-Recreation
+This project uses Raltyro's Pizza Tower FMOD recreation.
+
+Go check it out: https://gamebanana.com/tools/13432
