@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EffectPreset" id="{2bbad10b-7f0b-4588-a23a-c0ab2004bc1c}">
+		<property name="name">
+			<value>Panner</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b66d9da3-1346-4c06-ad00-4acf7ca4197c}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{2400eaa1-223c-44d5-a5b9-5f30cee484d1}</destination>
+		</relationship>
+	</object>
+	<object class="SpatialiserEffect" id="{2400eaa1-223c-44d5-a5b9-5f30cee484d1}">
+		<property name="minimumDistance">
+			<value>100</value>
+		</property>
+		<property name="maximumDistance">
+			<value>900</value>
+		</property>
+		<property name="overrideRange">
+			<value>true</value>
+		</property>
+		<property name="extentMode">
+			<value>1</value>
+		</property>
+		<property name="soundSize">
+			<value>2000</value>
+		</property>
+		<property name="minimumExtent">
+			<value>10</value>
+		</property>
+	</object>
+</objects>
