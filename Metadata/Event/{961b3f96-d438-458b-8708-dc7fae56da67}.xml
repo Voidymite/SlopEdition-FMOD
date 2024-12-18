@@ -178,6 +178,7 @@
 		<relationship name="effects">
 			<destination>{edf15e63-93e5-4df0-abbd-cad1e5b74f4f}</destination>
 			<destination>{afdfd22b-c346-4166-befb-b21d10e62893}</destination>
+			<destination>{58a71ccb-cc45-456f-a404-b4dd2ffb670a}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{e04728bd-a113-4e69-841a-1f2888da5dc7}" />
@@ -228,6 +229,11 @@
 		</property>
 		<property name="midGain">
 			<value>-37</value>
+		</property>
+	</object>
+	<object class="SFXReverbEffect" id="{58a71ccb-cc45-456f-a404-b4dd2ffb670a}">
+		<property name="decayTime">
+			<value>20000</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{76cd2852-9cf3-4be5-80d7-ea890589cae9}">
